@@ -9,8 +9,8 @@ export const PROFILE = {
   fullName: "Nikhil Maalige",
   tagline: "Computer Science Student • Machine Learning & Bioengineering Researcher",
   location: "Rutherford, New Jersey, USA",
-  email: "nikhil.maalige@email.com",
-  phone: "(201) 218-4479",
+  email: "",
+  phone: "",
   bio: [
     "I'm a junior at Bergen County Academies in Rutherford, New Jersey, studying an all Honors, AP, and IB course load with a 4.0/4.0 cumulative GPA. My focus is computer science — machine learning, data structures, and full-stack development — alongside research that applies those tools to real healthcare problems.",
     "My research work centres on machine learning and reinforcement learning. I built a wearable diagnostic device for assessing Parkinsonian motor symptoms, and I'm assisting an NJIT professor on a reinforcement learning project involving machine learning implementations and experimentation.",
